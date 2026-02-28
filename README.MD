@@ -31,6 +31,20 @@ La aplicación utiliza datos simulados (mock) y no depende de APIs externas ni d
 
 ---
 
+## Estructura del proyecto
+
+app-clima/
+│
+├── index.html
+├── detalle.html
+│
+├── css/
+│ └── styles.css
+│
+└── js/
+├── home.js
+└── detalle.js
+
 ## Ejecución del proyecto
 
 No es necesario levantar un servidor.
