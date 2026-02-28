@@ -31,4 +31,24 @@ La aplicación utiliza datos simulados (mock) y no depende de APIs externas ni d
 
 ---
 
-## Estructura del proyecto
+## Ejecución del proyecto
+
+No es necesario levantar un servidor.
+
+1. Descargar o clonar el proyecto
+2. Abrir el archivo `index.html` con doble clic en cualquier navegador moderno
+3. Navegar por la aplicación seleccionando una ciudad
+
+---
+
+## Consideraciones
+
+- Los datos climáticos son simulados con fines académicos
+- El proyecto no utiliza módulos JavaScript ni dependencias externas
+- Compatible con ejecución local mediante archivo HTML
+
+---
+
+## Autor
+
+Trabajo desarrollado con fines académicos.
